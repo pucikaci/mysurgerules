@@ -214,8 +214,8 @@ DOMAIN,bigdata.xingyeai.com
 DOMAIN,dataupload.everisker.com
 DOMAIN,apigw.ruubypay.com
 DOMAIN-SUFFIX,gw.xiaocantech.com
-DOMAIN-SUFFIX,iguangdiu.com
-DOMAIN-SUFFIX,guangdiu.com
+DOMAIN,iguangdiu.com
+DOMAIN,guangdiu.com
 DOMAIN-SUFFIX,qrstuvwxyzab.com
 DOMAIN-SUFFIX,yuchuantech.com
 DOMAIN-SUFFIX,tickflow.org
